@@ -1,0 +1,6 @@
+package com.dapai.game;
+
+public enum CombinationType {
+    SINGLE, PAIR, TRIPLE, FULL_HOUSE, CONSECUTIVE_PAIRS, CONSECUTIVE_TRIPLES,
+    STRAIGHT, BOMB, STRAIGHT_FLUSH, FOUR_JOKERS
+}
